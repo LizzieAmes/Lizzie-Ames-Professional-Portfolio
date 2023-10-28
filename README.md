@@ -1,6 +1,8 @@
 # Lizzie Ames Professional Portfolio
 Welcome to my professional portfolio! I created this as a way introduce myself to others in the development space! Let's connect! 🌟
 
+![My Portfolio](assets/images/Portfolio%20Screenshot.png)
+
 ## About Me
 I am passionate about working hard to create functional and efficient code, and having fun along the way. I love learning new things! Whether it's ways to improve my coding skills, interesting history, new recipes, or even new tricks on my rollerskates.  When I'm not diving deep into lines of code, you can find me at the beach. The sun, sea, and sand are not just my happy place; it's my source of inspiration. I have also have a love for cartoons, especially Disney movies. The magic of animation never fails to amaze me. It's a reminder to keep the sense of wonder alive. As a developer, I channel this spirit of curiosity, and love for imagination into my work.So, whether you're looking to collaborate on a coding project, or discuss the latest Disney classics, I'm here and excited! Let's bring your digital dreams to life!
 
